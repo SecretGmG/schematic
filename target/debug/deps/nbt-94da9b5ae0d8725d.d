@@ -1,0 +1,12 @@
+c:\Users\cedri\vscode_repos\schematic\schematic\target\debug\deps\nbt-94da9b5ae0d8725d.rmeta: C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src/lib.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\blob.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\error.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\raw.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\value.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\macros.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\de.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\ser.rs
+
+c:\Users\cedri\vscode_repos\schematic\schematic\target\debug\deps\nbt-94da9b5ae0d8725d.d: C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src/lib.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\blob.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\error.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\raw.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\value.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\macros.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\de.rs C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\ser.rs
+
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src/lib.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\blob.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\error.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\raw.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\value.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\macros.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\de.rs:
+C:\Users\cedri\.cargo\registry\src\github.com-1ecc6299db9ec823\hematite-nbt-0.5.2\src\ser.rs:
